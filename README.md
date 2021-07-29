@@ -21,6 +21,7 @@ The following operations are done:
 10. Verify the predictions with the actual images.
 
 
+
 ## Fashion Objects Classification
 
 Language - Python
