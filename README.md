@@ -1,6 +1,9 @@
 # Deep-Learning-Project-1
 ## Handwritten Digit Classification
 
+Language - Python
+IDE Jupyter Notebook
+
 For this task, we will be working on the MNIST database. The MNIST data is a database of handwritten digits from 0 to 9. The database contains 60,000 28x28 grayscale images of the 10 digits, along with a test set of 10,000 images. The task is to create an ANN model for identifying the digit from the handwritten images.
 
 The following operations are done:
